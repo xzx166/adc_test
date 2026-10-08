@@ -1,0 +1,22 @@
+{
+    "username": "jym2",
+    "password": "",
+    "gameArea": "",
+    "phone": "",
+    "smsCode": "gf6j5",
+    "taskId": "99999",
+    "SCRIPT_ENV": "pre",
+    "mode": null,
+    "gameDir": "11264_netease",
+    "sleepTime": 0.5,
+    "oss_mode": "lingxioss",
+    "oss_app_id": "69DhuTkJHp3WAM7ffZQ1N8LE",
+    "oss_app_secret": "1PKuyFAM5S8hohy2ebznshfl4rvggD",
+    "taskType": 2,
+    "local_need_clean": 0,
+    "local_need_upload": 0,
+    "local_remove_log": 1,
+    "categoryId": "1772510391382327",
+    "commonPropertiesJson": "{\"captchaTaskStatus\":\"2\",\"captchaTaskRetryCount\":\"1\"}",
+    "accountAttr": "{\"SECONDARY_PWD\":\"\"}"
+}

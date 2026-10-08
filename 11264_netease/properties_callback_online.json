@@ -1,0 +1,3441 @@
+[
+    {
+        "propertyName": "红皮数",
+        "value": "6",
+        "propertyId": 7260202563282400
+    },
+    {
+        "propertyName": "金皮数",
+        "value": "302",
+        "propertyId": 7260202563929568
+    },
+    {
+        "propertyName": "通行证等级",
+        "value": 12,
+        "propertyId": 7260202565572064
+    },
+    {
+        "propertyName": "三排段位",
+        "value": "黄金1",
+        "propertyId": 7260202565633504
+    },
+    {
+        "propertyName": "幻丝数",
+        "value": "47167",
+        "propertyId": 7260202565694944
+    },
+    {
+        "propertyName": "角色等级",
+        "value": "275",
+        "propertyId": 7260202565842400
+    },
+    {
+        "propertyName": "服装",
+        "gameProperties": [
+            {
+                "value": "九骊之君",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "天海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847098431227909",
+                            "nodeId": "7434847098485753864"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847098431227909",
+                            "nodeId": "7434847156002244617"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847098431227909"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/九骊之君.png"
+            },
+            {
+                "value": "武道无穷·少林",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "天海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847098196346894",
+                            "nodeId": "7434847098250872834"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847098196346894",
+                            "nodeId": "7434847155817695243"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847098196346894"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/武道无穷·少林.png"
+            },
+            {
+                "value": "八宝龙王",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "天海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847097349097481",
+                            "nodeId": "7434847097403623436"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847097349097481",
+                            "nodeId": "7434847155175966725"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847097349097481"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/八宝龙王.png"
+            },
+            {
+                "value": "智绘·萍之缘",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "殷紫萍",
+                        "propertyExt": {
+                            "parentNodeId": "7434847081637234690",
+                            "nodeId": "7434847081687566337"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847081637234690",
+                            "nodeId": "7434847142689523720"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847081637234690"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/智绘·萍之缘.png"
+            },
+            {
+                "value": "怪诞狂想·街头梦语",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "特木尔",
+                        "propertyExt": {
+                            "parentNodeId": "7434847101484681219",
+                            "nodeId": "7434847101539207173"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847101484681219",
+                            "nodeId": "7434847158313306125"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847101484681219"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/怪诞狂想·街头梦语.png"
+            },
+            {
+                "value": "追猎",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "特木尔",
+                        "propertyExt": {
+                            "parentNodeId": "7434847100507408395",
+                            "nodeId": "7434847100561934340"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847100507408395",
+                            "nodeId": "7434847157541554181"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847100507408395"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/追猎.png"
+            },
+            {
+                "value": "康复之星",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847120702982150",
+                            "nodeId": "7434847120757508101"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847120702982150",
+                            "nodeId": "7434847173786093570"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847120702982150"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/康复之星.png"
+            },
+            {
+                "value": "不良人·李星云",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847120216442890",
+                            "nodeId": "7434847120270968842"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847120216442890",
+                            "nodeId": "7434847173425383437"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847120216442890"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/不良人·李星云.png"
+            },
+            {
+                "value": "巨阙",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847119729903619",
+                            "nodeId": "7434847119788623879"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847119729903619",
+                            "nodeId": "7434847173043701763"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847119729903619"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/巨阙.png"
+            },
+            {
+                "value": "逆水寒·染烟",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847119482439693",
+                            "nodeId": "7434847119536965644"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847119482439693",
+                            "nodeId": "7434847172854958087"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847119482439693"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/逆水寒·染烟.png"
+            },
+            {
+                "value": "御宅罗梦",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡桃",
+                        "propertyExt": {
+                            "parentNodeId": "7434847123651577856",
+                            "nodeId": "7434847123701909504"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847123651577856",
+                            "nodeId": "7434847176239761411"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847123651577856"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/御宅罗梦.png"
+            },
+            {
+                "value": "阴阳姬",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡桃",
+                        "propertyExt": {
+                            "parentNodeId": "7434847124008093710",
+                            "nodeId": "7434847124066813960"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847124008093710",
+                            "nodeId": "7434847176524974088"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847124008093710"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/阴阳姬.png"
+            },
+            {
+                "value": "清雅少女",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡桃",
+                        "propertyExt": {
+                            "parentNodeId": "7434847124146505731",
+                            "nodeId": "7434847124213614605"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847124146505731",
+                            "nodeId": "7434847176613054477"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847124146505731"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/清雅少女.png"
+            },
+            {
+                "value": "狩猎都市·暗夜利刃",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "妖刀姬",
+                        "propertyExt": {
+                            "parentNodeId": "7434847085344999427",
+                            "nodeId": "7434847085399525386"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847085344999427",
+                            "nodeId": "7434847145801697293"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847085344999427"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_默认背景_1774793574042144.png"
+            },
+            {
+                "value": "流火映真",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "妖刀姬",
+                        "propertyExt": {
+                            "parentNodeId": "7434847084711659526",
+                            "nodeId": "7434847084770379781"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847084711659526",
+                            "nodeId": "7434847145289992203"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847084711659526"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/流火映真.png"
+            },
+            {
+                "value": "妖刀姬",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "妖刀姬",
+                        "propertyExt": {
+                            "parentNodeId": "7434847083742775296",
+                            "nodeId": "7434847083793106953"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847083742775296",
+                            "nodeId": "7434847144480491523"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847083742775296"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/妖刀姬.png"
+            },
+            {
+                "value": "决战平安京·恋念私语",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "妖刀姬",
+                        "propertyExt": {
+                            "parentNodeId": "7434847084959123457",
+                            "nodeId": "7434847085017843718"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847084959123457",
+                            "nodeId": "7434847145482930177"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847084959123457"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/决战平安京·恋念私语.png"
+            },
+            {
+                "value": "阿娜希塔",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "崔三娘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847133743073287",
+                            "nodeId": "7434847133805987846"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847133743073287",
+                            "nodeId": "7434847184225716230"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847133743073287"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/阿娜希塔.png"
+            },
+            {
+                "value": "楚韵九歌·湘夫人",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "崔三娘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847133634021376",
+                            "nodeId": "7434847133684353035"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847133634021376",
+                            "nodeId": "7434847184137635851"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847133634021376"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/楚韵九歌·湘夫人.png"
+            },
+            {
+                "value": "赤雾烟霞",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "崔三娘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847132317009934",
+                            "nodeId": "7434847132379924488"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847132317009934",
+                            "nodeId": "7434847182862567431"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847132317009934"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/赤雾烟霞.png"
+            },
+            {
+                "value": "煦阳漫叙",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7434847076562126855",
+                            "nodeId": "7434847076612458503"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847076562126855",
+                            "nodeId": "7434847138499414020"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847076562126855"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/煦阳漫叙.png"
+            },
+            {
+                "value": "开辟鸿蒙·金戈止",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7434847076197222411",
+                            "nodeId": "7434847076255942663"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847076197222411",
+                            "nodeId": "7434847138210007048"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847076197222411"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/开辟鸿蒙·金戈止.png"
+            },
+            {
+                "value": "新魔杰·斩魔天将",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7434847075194783748",
+                            "nodeId": "7434847075249309704"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847075194783748",
+                            "nodeId": "7434847137522141186"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847075194783748"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/新魔杰·斩魔天将.png"
+            },
+            {
+                "value": "龙之影·过江龙",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7434847074460780551",
+                            "nodeId": "7434847074519500803"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847074460780551",
+                            "nodeId": "7434847136955910150"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847074460780551"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/龙之影·过江龙.png"
+            },
+            {
+                "value": "梨园传奇·柳生",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "无尘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847091003115525",
+                            "nodeId": "7434847091057641478"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847091003115525",
+                            "nodeId": "7434847150381877257"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847091003115525"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/梨园传奇·柳生.png"
+            },
+            {
+                "value": "封神录·申公豹",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "无尘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847090868897792",
+                            "nodeId": "7434847090931812363"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847090868897792",
+                            "nodeId": "7434847150289602562"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847090868897792"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/封神录·申公豹.png"
+            },
+            {
+                "value": "朝闻道",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "无尘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847089325393934",
+                            "nodeId": "7434847089375725579"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847089325393934",
+                            "nodeId": "7434847149064865793"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847089325393934"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/朝闻道.png"
+            },
+            {
+                "value": "玉衡天君",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "无尘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847089438640131",
+                            "nodeId": "7434847089497360384"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847089438640131",
+                            "nodeId": "7434847149161334797"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847089438640131"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/玉衡天君.png"
+            },
+            {
+                "value": "若谷",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "无尘",
+                        "propertyExt": {
+                            "parentNodeId": "7434847090025842699",
+                            "nodeId": "7434847090080368640"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847090025842699",
+                            "nodeId": "7434847149643679753"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847090025842699"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/若谷.png"
+            },
+            {
+                "value": "禄运玉霄",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "顾清寒",
+                        "propertyExt": {
+                            "parentNodeId": "7434847130714785801",
+                            "nodeId": "7434847130765117449"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847130714785801",
+                            "nodeId": "7434847181595887617"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847130714785801"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/禄运玉霄.png"
+            },
+            {
+                "value": "封神录·龙吉公主",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "顾清寒",
+                        "propertyExt": {
+                            "parentNodeId": "7434847130488293386",
+                            "nodeId": "7434847130538625033"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847130488293386",
+                            "nodeId": "7434847181390366730"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847130488293386"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/封神录·龙吉公主.png"
+            },
+            {
+                "value": "祸津素盏",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "武田信忠",
+                        "propertyExt": {
+                            "parentNodeId": "7434847088717219850",
+                            "nodeId": "7434847088771745794"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847088717219850",
+                            "nodeId": "7434847148435720193"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847088717219850"
+                },
+                "image": "/home/admin/adc-pc/target/adc-pc/logs/111.62.202.85_5979/unzip/11264_netease/materials_icons/默认背景.png"
+            },
+            {
+                "value": "千秋匠心·玉叶景",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "迦南",
+                        "propertyExt": {
+                            "parentNodeId": "7434847113614608394",
+                            "nodeId": "7434847113664940033"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847113614608394",
+                            "nodeId": "7434847168023119874"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847113614608394"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/千秋匠心·玉叶景.png"
+            },
+            {
+                "value": "监兵凶神",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡为",
+                        "propertyExt": {
+                            "parentNodeId": "7434847121445373955",
+                            "nodeId": "7434847121499899914"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "红",
+                        "propertyExt": {
+                            "parentNodeId": "7434847121445373955",
+                            "nodeId": "7434847174394267660"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847121445373955"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/监兵凶神.png"
+            },
+            {
+                "value": "福瑞天泽",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡为",
+                        "propertyExt": {
+                            "parentNodeId": "7434847122087102464",
+                            "nodeId": "7434847122145822722"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847122087102464",
+                            "nodeId": "7434847174868224005"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847122087102464"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/福瑞天泽.png"
+            },
+            {
+                "value": "葫芦兄弟·蛤蟆头领",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡为",
+                        "propertyExt": {
+                            "parentNodeId": "7434847121919330306",
+                            "nodeId": "7434847121978050567"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847121919330306",
+                            "nodeId": "7434847174771755011"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847121919330306"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/葫芦兄弟·蛤蟆头领.png"
+            },
+            {
+                "value": "西行劫·悟空",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡为",
+                        "propertyExt": {
+                            "parentNodeId": "7434847121084663819",
+                            "nodeId": "7434847121139189771"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847121084663819",
+                            "nodeId": "7434847174067111936"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847121084663819"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/西行劫·悟空.png"
+            },
+            {
+                "value": "干将莫邪",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季莹莹",
+                        "propertyExt": {
+                            "parentNodeId": "7434847115791452173",
+                            "nodeId": "7434847115850172419"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847115791452173",
+                            "nodeId": "7434847169772144640"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847115791452173"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/干将莫邪.png"
+            },
+            {
+                "value": "护世四法·广目天王",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "玉玲珑",
+                        "propertyExt": {
+                            "parentNodeId": "7434847077912692740",
+                            "nodeId": "7434847077967218692"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847077912692740",
+                            "nodeId": "7434847139535407109"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847077912692740"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/护世四法·广目天王.png"
+            },
+            {
+                "value": "天工奥妙",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "哈迪",
+                        "propertyExt": {
+                            "parentNodeId": "7434847126872803342",
+                            "nodeId": "7434847126935717894"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847126872803342",
+                            "nodeId": "7434847178722789381"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847126872803342"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/天工奥妙.png"
+            },
+            {
+                "value": "夜绸袍",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "哈迪",
+                        "propertyExt": {
+                            "parentNodeId": "7434847127002826759",
+                            "nodeId": "7434847127061547012"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847127002826759",
+                            "nodeId": "7434847178815064077"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847127002826759"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/夜绸袍.png"
+            },
+            {
+                "value": "流金晓锦",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "刘炼",
+                        "propertyExt": {
+                            "parentNodeId": "7434847108619192320",
+                            "nodeId": "7434847108673718272"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "红",
+                        "propertyExt": {
+                            "parentNodeId": "7434847108619192320",
+                            "nodeId": "7434847164034336780"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847108619192320"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/流金晓锦.png"
+            },
+            {
+                "value": "封神录·姜子牙",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "刘炼",
+                        "propertyExt": {
+                            "parentNodeId": "7434847108392699905",
+                            "nodeId": "7434847108443031552"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847108392699905",
+                            "nodeId": "7434847163849787403"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847108392699905"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/封神录·姜子牙.png"
+            },
+            {
+                "value": "云间影",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "张起灵",
+                        "propertyExt": {
+                            "parentNodeId": "7434847072879527945",
+                            "nodeId": "7434847072929859591"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847072879527945",
+                            "nodeId": "7434847135626315782"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847072879527945"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/云间影.png"
+            },
+            {
+                "value": "天虹咏",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "席拉",
+                        "propertyExt": {
+                            "parentNodeId": "7434847086708148230",
+                            "nodeId": "7434847086758479882"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847086708148230",
+                            "nodeId": "7434847146867050496"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847086708148230"
+                },
+                "image": "/home/admin/adc-pc/target/adc-pc/logs/111.62.202.85_5979/unzip/11264_netease/materials_icons/默认背景.png"
+            },
+            {
+                "value": "暖冬茶馨",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "席拉",
+                        "propertyExt": {
+                            "parentNodeId": "7434847086066419717",
+                            "nodeId": "7434847086125139979"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847086066419717",
+                            "nodeId": "7434847146388899854"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847086066419717"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/暖冬茶馨.png"
+            },
+            {
+                "value": "雪铃绮歌",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "席拉",
+                        "propertyExt": {
+                            "parentNodeId": "7434847086204831756",
+                            "nodeId": "7434847086267746318"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847086204831756",
+                            "nodeId": "7434847146493757454"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847086204831756"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/雪铃绮歌.png"
+            },
+            {
+                "value": "狩猎都市·雷行猎手",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "万钧",
+                        "propertyExt": {
+                            "parentNodeId": "7434847095394551815",
+                            "nodeId": "7434847095453272073"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847095394551815",
+                            "nodeId": "7434847153645045760"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847095394551815"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/狩猎都市·雷行猎手.png"
+            }
+        ],
+        "propertyId": 7260202565899744,
+        "useGameProperty": true
+    },
+    {
+        "propertyName": "武器皮肤",
+        "gameProperties": [
+            {
+                "value": "咕咕",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7202549966405238789",
+                            "nodeId": "7202550137910329350"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7202549966405238789"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/咕咕.png"
+            },
+            {
+                "value": "天牛翼",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7198964862038706188",
+                            "nodeId": "7198964862080649227"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7198964862038706188"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/天牛翼.png"
+            },
+            {
+                "value": "朱雀",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066611068535819",
+                            "nodeId": "7188066611097895942"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066611068535819"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/朱雀.png"
+            },
+            {
+                "value": "戏祥云",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7275747996322894854",
+                            "nodeId": "7275747996473889794"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "鸟铳",
+                        "propertyExt": {
+                            "parentNodeId": "7275747996322894854",
+                            "nodeId": "7284501984409161226"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7275747996322894854"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/戏祥云.png"
+            },
+            {
+                "value": "引冰落",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066614491087883",
+                            "nodeId": "7188066614528836622"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066614491087883"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/引冰落.png"
+            },
+            {
+                "value": "萤火",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066611664126978",
+                            "nodeId": "7188066611701875726"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066611664126978"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/萤火.png"
+            },
+            {
+                "value": "石中火",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066611429245966",
+                            "nodeId": "7188066611462800393"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066611429245966"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/石中火.png"
+            },
+            {
+                "value": "雪国礼炮",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7275747996545192969",
+                            "nodeId": "7275747996691993600"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "火炮",
+                        "propertyExt": {
+                            "parentNodeId": "7275747996545192969",
+                            "nodeId": "7284501856969425422"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7275747996545192969"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/雪国礼炮.png"
+            },
+            {
+                "value": "钻山",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7214871549622747652",
+                            "nodeId": "7214871609253171201"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7214871549622747652"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/钻山.png"
+            },
+            {
+                "value": "竹霹雳",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066612104528903",
+                            "nodeId": "7188066612142277636"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066612104528903"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/竹霹雳.png"
+            },
+            {
+                "value": "丹鹤",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7313036735562518541",
+                            "nodeId": "7313036735600267265"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7313036735562518541"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/丹鹤.png"
+            },
+            {
+                "value": "凝冰魄",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7214531321611552270",
+                            "nodeId": "7214531322832094733"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7214531321611552270"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/凝冰魄.png"
+            },
+            {
+                "value": "乌木弓",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7244567281837411842",
+                            "nodeId": "7244567281984212486"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "弓箭",
+                        "propertyExt": {
+                            "parentNodeId": "7244567281837411842",
+                            "nodeId": "7244567281887743494"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7244567281837411842"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/乌木弓.png"
+            },
+            {
+                "value": "豹胎易筋弓",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7198964862231644171",
+                            "nodeId": "7198964862277781504"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "弓箭",
+                        "propertyExt": {
+                            "parentNodeId": "7198964862231644171",
+                            "nodeId": "7198964863527684105"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7198964862231644171"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/豹胎易筋弓.png"
+            },
+            {
+                "value": "腥红之月",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066593406321677",
+                            "nodeId": "7188066593439876109"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "弓箭",
+                        "propertyExt": {
+                            "parentNodeId": "7188066593406321677",
+                            "nodeId": "7188066616600822789"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066593406321677"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/腥红之月.png"
+            },
+            {
+                "value": "镇恶·天下第一蓄转振",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7440587869331526155",
+                            "nodeId": "7440587869398635020"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "拳刃",
+                        "propertyExt": {
+                            "parentNodeId": "7440587869331526155",
+                            "nodeId": "7440587870224912900"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7440587869331526155"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/镇恶·天下第一蓄转振.png"
+            },
+            {
+                "value": "无相印",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7257670783748936711",
+                            "nodeId": "7257670783891543045"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "拳刃",
+                        "propertyExt": {
+                            "parentNodeId": "7257670783748936711",
+                            "nodeId": "7257670783799268362"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7257670783748936711"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/无相印.png"
+            },
+            {
+                "value": "天狐",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7214521108795885573",
+                            "nodeId": "7214521109110458371"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "拳刃",
+                        "propertyExt": {
+                            "parentNodeId": "7214521108795885573",
+                            "nodeId": "7214521108854605824"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7214521108795885573"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/天狐.png"
+            },
+            {
+                "value": "醉花风",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7382363199130443274",
+                            "nodeId": "7382363199193357825"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "链剑",
+                        "propertyExt": {
+                            "parentNodeId": "7382363199130443274",
+                            "nodeId": "7382363199319186945"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7382363199130443274"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/醉花风.png"
+            },
+            {
+                "value": "切影",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7382363198241250823",
+                            "nodeId": "7382363198295776778"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "太刀",
+                        "propertyExt": {
+                            "parentNodeId": "7382363198241250823",
+                            "nodeId": "7382363198400634369"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7382363198241250823"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/切影.png"
+            },
+            {
+                "value": "黑绳",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066596451386377",
+                            "nodeId": "7188066596484940803"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "太刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066596451386377",
+                            "nodeId": "7188066619020936199"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066596451386377"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/黑绳.png"
+            },
+            {
+                "value": "锦鲤化龙·落樱",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066595373450241",
+                            "nodeId": "7188066595402810372"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "太刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066595373450241",
+                            "nodeId": "7188066618110772233"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066595373450241"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/锦鲤化龙·落樱.png"
+            },
+            {
+                "value": "魂花晶",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066595293758475",
+                            "nodeId": "7188066595331507205"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "太刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066595293758475",
+                            "nodeId": "7188066618043663366"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066595293758475"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/魂花晶.png"
+            },
+            {
+                "value": "雷赐",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066594899493895",
+                            "nodeId": "7188066594945631245"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "太刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066594899493895",
+                            "nodeId": "7188066617703924743"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066594899493895"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/雷赐.png"
+            },
+            {
+                "value": "烛泪",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066610015765506",
+                            "nodeId": "7188066610066097159"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "横刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066610015765506",
+                            "nodeId": "7188066628726555650"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066610015765506"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/烛泪.png"
+            },
+            {
+                "value": "狼主",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "红",
+                        "propertyExt": {
+                            "parentNodeId": "7188066596627547147",
+                            "nodeId": "7188066596665295881"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "阔刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066596627547147",
+                            "nodeId": "7188066619205485572"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066596627547147"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/狼主.png"
+            },
+            {
+                "value": "斩银河",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7382363198694235648",
+                            "nodeId": "7382363198748761606"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "阔刀",
+                        "propertyExt": {
+                            "parentNodeId": "7382363198694235648",
+                            "nodeId": "7382363198841036301"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7382363198694235648"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/斩银河.png"
+            },
+            {
+                "value": "破天",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7198964861833185286",
+                            "nodeId": "7198964861875128322"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "阔刀",
+                        "propertyExt": {
+                            "parentNodeId": "7198964861833185286",
+                            "nodeId": "7198964863217305603"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7198964861833185286"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/破天.png"
+            },
+            {
+                "value": "鱼化龙",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066598200411144",
+                            "nodeId": "7188066598246548480"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "阔刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066598200411144",
+                            "nodeId": "7188066620325364738"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066598200411144"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/鱼化龙.png"
+            },
+            {
+                "value": "麒麟牙",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7214531322471384590",
+                            "nodeId": "7214531323461240322"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "斩马刀",
+                        "propertyExt": {
+                            "parentNodeId": "7214531322471384590",
+                            "nodeId": "7214531322500744712"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7214531322471384590"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/麒麟牙.png"
+            },
+            {
+                "value": "西行劫·三尖两刃刀",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066608266740748",
+                            "nodeId": "7188066608317072390"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "斩马刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066608266740748",
+                            "nodeId": "7188066627501818889"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066608266740748"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/西行劫·三尖两刃刀.png"
+            },
+            {
+                "value": "紫焰火尖枪",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066600838628354",
+                            "nodeId": "7188066600876377095"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066600838628354"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/紫焰火尖枪.png"
+            },
+            {
+                "value": "长虹",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066599643251717",
+                            "nodeId": "7188066599697777674"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066599643251717"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/长虹.png"
+            },
+            {
+                "value": "孤灯行",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7403630203577438221",
+                            "nodeId": "7403630203648741383"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "棍",
+                        "propertyExt": {
+                            "parentNodeId": "7403630203577438221",
+                            "nodeId": "7403630203933954053"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7403630203577438221"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/孤灯行.png"
+            },
+            {
+                "value": "输液架",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7403630203707461636",
+                            "nodeId": "7403630203749404679"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "棍",
+                        "propertyExt": {
+                            "parentNodeId": "7403630203707461636",
+                            "nodeId": "7403630204001062915"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7403630203707461636"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/输液架.png"
+            },
+            {
+                "value": "糖果棍",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7275748001171510283",
+                            "nodeId": "7275748001322505222"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "棍",
+                        "propertyExt": {
+                            "parentNodeId": "7275748001171510283",
+                            "nodeId": "7275748001221841931"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7275748001171510283"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/糖果棍.png"
+            },
+            {
+                "value": "武道无穷·封魔",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066607788590086",
+                            "nodeId": "7188066607826338830"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "棍",
+                        "propertyExt": {
+                            "parentNodeId": "7188066607788590086",
+                            "nodeId": "7188066627204023309"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066607788590086"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/武道无穷·封魔.png"
+            },
+            {
+                "value": "判官笔",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7275748001406391298",
+                            "nodeId": "7275748001561580556"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "匕首",
+                        "propertyExt": {
+                            "parentNodeId": "7275748001406391298",
+                            "nodeId": "7275748001460917262"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7275748001406391298"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/判官笔.png"
+            },
+            {
+                "value": "雪残梅",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066602621207555",
+                            "nodeId": "7188066602654761986"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "匕首",
+                        "propertyExt": {
+                            "parentNodeId": "7188066602621207555",
+                            "nodeId": "7188066623756305416"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066602621207555"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/雪残梅.png"
+            },
+            {
+                "value": "仙舞",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066602356966411",
+                            "nodeId": "7188066602386326536"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "匕首",
+                        "propertyExt": {
+                            "parentNodeId": "7188066602356966411",
+                            "nodeId": "7188066623471092747"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066602356966411"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/仙舞.png"
+            },
+            {
+                "value": "折寒英",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7392100814234717195",
+                            "nodeId": "7392101306226578949"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "扇",
+                        "propertyExt": {
+                            "parentNodeId": "7392100814234717195",
+                            "nodeId": "7392101306297882115"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7392100814234717195"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/折寒英.png"
+            },
+            {
+                "value": "青峰叠扇",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7348667189455883785",
+                            "nodeId": "7348667217117317122"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "扇",
+                        "propertyExt": {
+                            "parentNodeId": "7348667189455883785",
+                            "nodeId": "7348667259798555143"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7348667189455883785"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/青峰叠扇.png"
+            },
+            {
+                "value": "腾云歌",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7284500603614924812",
+                            "nodeId": "7284500666118444044"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "扇",
+                        "propertyExt": {
+                            "parentNodeId": "7284500603614924812",
+                            "nodeId": "7284500843352949770"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7284500603614924812"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/腾云歌.png"
+            },
+            {
+                "value": "耀夜流华",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7214531322643351044",
+                            "nodeId": "7214531323603846661"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "扇",
+                        "propertyExt": {
+                            "parentNodeId": "7214531322643351044",
+                            "nodeId": "7214531322676905476"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7214531322643351044"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/耀夜流华.png"
+            },
+            {
+                "value": "樱落",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7198964862604937221",
+                            "nodeId": "7198964862646880266"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "扇",
+                        "propertyExt": {
+                            "parentNodeId": "7198964862604937221",
+                            "nodeId": "7198964863821285382"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7198964862604937221"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/樱落.png"
+            },
+            {
+                "value": "狂龙",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "红",
+                        "propertyExt": {
+                            "parentNodeId": "7188066603321656327",
+                            "nodeId": "7188066603359405070"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066603321656327"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/狂龙.png"
+            },
+            {
+                "value": "咯咯",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7202550190339130886",
+                            "nodeId": "7202550320362556416"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7202550190339130886"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/咯咯.png"
+            },
+            {
+                "value": "嘶风",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066604714165257",
+                            "nodeId": "7188066604751913996"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066604714165257"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/嘶风.png"
+            },
+            {
+                "value": "精武",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066603661394957",
+                            "nodeId": "7188066603707532291"
+                        },
+                        "propertyId": 7188066531620029447
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066603661394957"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/精武.png"
+            },
+            {
+                "value": "无救",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066606157005829",
+                            "nodeId": "7188066606194754569"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "双刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066606157005829",
+                            "nodeId": "7188066626159641608"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066606157005829"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/无救.png"
+            },
+            {
+                "value": "必安",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066605464945666",
+                            "nodeId": "7188066605506888707"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "双刀",
+                        "propertyExt": {
+                            "parentNodeId": "7188066605464945666",
+                            "nodeId": "7188066625681490946"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066605464945666"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/必安.png"
+            },
+            {
+                "value": "惊百里",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "红",
+                        "propertyExt": {
+                            "parentNodeId": "7203692486191351812",
+                            "nodeId": "7203692589933269515"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "双戟",
+                        "propertyExt": {
+                            "parentNodeId": "7203692486191351812",
+                            "nodeId": "7203692703305306630"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7203692486191351812"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/惊百里.png"
+            },
+            {
+                "value": "曜金紫珀",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7369250236949465612",
+                            "nodeId": "7369250237016574468"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "双戟",
+                        "propertyExt": {
+                            "parentNodeId": "7369250236949465612",
+                            "nodeId": "7369250237146597900"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7369250236949465612"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/曜金紫珀.png"
+            },
+            {
+                "value": "不归",
+                "childProperties": [
+                    {
+                        "childName": "品质",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7188066608761668611",
+                            "nodeId": "7188066608812000258"
+                        },
+                        "propertyId": 7188066531620029447
+                    },
+                    {
+                        "childName": "武器",
+                        "value": "双戟",
+                        "propertyExt": {
+                            "parentNodeId": "7188066608761668611",
+                            "nodeId": "7188066627803808780"
+                        },
+                        "propertyId": 7188066614646277129
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7188066608761668611"
+                },
+                "image": "/jym-oss/resource/vmos/20260325/adc_0/不归.png"
+            }
+        ],
+        "propertyId": 7260202566288864,
+        "useGameProperty": true
+    },
+    {
+        "propertyName": "发型",
+        "gameProperties": [
+            {
+                "value": "簪缨",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "宁红夜",
+                        "propertyExt": {
+                            "parentNodeId": "7434847027870451715",
+                            "nodeId": "7434847027924977674"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847027870451715",
+                            "nodeId": "7434847058170103814"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847027870451715"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_簪缨_1774793574179629.jpg"
+            },
+            {
+                "value": "【挑染】白芷",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "殷紫萍",
+                        "propertyExt": {
+                            "parentNodeId": "7434847016210286598",
+                            "nodeId": "7434847016269006859"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847016210286598",
+                            "nodeId": "7434847048862943232"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847016210286598"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_【挑染】白芷_1774793574255142.jpg"
+            },
+            {
+                "value": "【挑染】腾烟",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847035445364736",
+                            "nodeId": "7434847035504085006"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847035445364736",
+                            "nodeId": "7434847063928883214"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847035445364736"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_【挑染】腾烟_1774793574335386.jpg"
+            },
+            {
+                "value": "逆水寒·江海",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847035692828683",
+                            "nodeId": "7434847035747354635"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847035692828683",
+                            "nodeId": "7434847064134404103"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847035692828683"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_逆水寒·江海_1774793574410987.jpg"
+            },
+            {
+                "value": "含锋",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847036472969230",
+                            "nodeId": "7434847036531689481"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847036472969230",
+                            "nodeId": "7434847064742578185"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847036472969230"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_含锋_1774793574487820.jpg"
+            },
+            {
+                "value": "不良人·三圣涅",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "季沧海",
+                        "propertyExt": {
+                            "parentNodeId": "7434847037089531918",
+                            "nodeId": "7434847037148252167"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847037089531918",
+                            "nodeId": "7434847065250088961"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847037089531918"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_不良人·三圣涅_1774793574564237.jpg"
+            },
+            {
+                "value": "【挑染】水仙",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡桃",
+                        "propertyExt": {
+                            "parentNodeId": "7434847038654007309",
+                            "nodeId": "7434847038708533252"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847038654007309",
+                            "nodeId": "7434847066462242828"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847038654007309"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_【挑染】水仙_1774793574642588.jpg"
+            },
+            {
+                "value": "木棉",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡桃",
+                        "propertyExt": {
+                            "parentNodeId": "7434847038914054157",
+                            "nodeId": "7434847038972774403"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847038914054157",
+                            "nodeId": "7434847066667763720"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847038914054157"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_木棉_1774793574716485.jpg"
+            },
+            {
+                "value": "月丹",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "胡桃",
+                        "propertyExt": {
+                            "parentNodeId": "7434847039341873152",
+                            "nodeId": "7434847039400593422"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847039341873152",
+                            "nodeId": "7434847067032668169"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847039341873152"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_月丹_1774793574792372.jpg"
+            },
+            {
+                "value": "靖仇",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7434847013056169985",
+                            "nodeId": "7434847013106501643"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847013056169985",
+                            "nodeId": "7434847046358943746"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847013056169985"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_靖仇_1774793574867616.jpg"
+            },
+            {
+                "value": "封神录·红鸾星",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "顾清寒",
+                        "propertyExt": {
+                            "parentNodeId": "7434847042877671429",
+                            "nodeId": "7434847042932197386"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847042877671429",
+                            "nodeId": "7434847070027401225"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847042877671429"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_封神录·红鸾星_1774793574946809.jpg"
+            },
+            {
+                "value": "绯霜",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "顾清寒",
+                        "propertyExt": {
+                            "parentNodeId": "7434847042995111936",
+                            "nodeId": "7434847043049637890"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847042995111936",
+                            "nodeId": "7434847070128064526"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847042995111936"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_绯霜_1774793575021085.jpg"
+            },
+            {
+                "value": "封神录·笼烟芍药",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "玉玲珑",
+                        "propertyExt": {
+                            "parentNodeId": "7434847014754863110",
+                            "nodeId": "7434847014809389059"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847014754863110",
+                            "nodeId": "7434847047684343815"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847014754863110"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_封神录·笼烟芍药_1774793575097950.jpg"
+            },
+            {
+                "value": "秀逸",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "哈迪",
+                        "propertyExt": {
+                            "parentNodeId": "7434847041317390342",
+                            "nodeId": "7434847041371916296"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847041317390342",
+                            "nodeId": "7434847068714584071"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847041317390342"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_秀逸_1774793575171552.jpg"
+            },
+            {
+                "value": "【挑染】玄冥",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "魏轻",
+                        "propertyExt": {
+                            "parentNodeId": "7434847021545441280",
+                            "nodeId": "7434847021599967243"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847021545441280",
+                            "nodeId": "7434847053174687755"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847021545441280"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_【挑染】玄冥_1774793575247836.jpg"
+            },
+            {
+                "value": "封神录·仙风",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "刘炼",
+                        "propertyExt": {
+                            "parentNodeId": "7434847029434927109",
+                            "nodeId": "7434847029489453060"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847029434927109",
+                            "nodeId": "7434847059466143745"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847029434927109"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_封神录·仙风_1774793575325165.jpg"
+            },
+            {
+                "value": "【挑染】逐影",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "张起灵",
+                        "propertyExt": {
+                            "parentNodeId": "7434847011986622477",
+                            "nodeId": "7434847012091480072"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847011986622477",
+                            "nodeId": "7434847045503305741"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847011986622477"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_【挑染】逐影_1774793575404289.jpg"
+            },
+            {
+                "value": "蜜语",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "席拉",
+                        "propertyExt": {
+                            "parentNodeId": "7434847018504570889",
+                            "nodeId": "7434847018554902537"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847018504570889",
+                            "nodeId": "7434847050674882561"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847018504570889"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_蜜语_1774793575483448.jpg"
+            },
+            {
+                "value": "【挑染】牵云霞",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "蓝梦",
+                        "propertyExt": {
+                            "parentNodeId": "7434847030332508166",
+                            "nodeId": "7434847030391228424"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847030332508166",
+                            "nodeId": "7434847060103677961"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847030332508166"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_【挑染】牵云霞_1774793575559153.jpg"
+            },
+            {
+                "value": "狩猎都市·迅猛",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "万钧",
+                        "propertyExt": {
+                            "parentNodeId": "7434847023210579971",
+                            "nodeId": "7434847023265105932"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847023210579971",
+                            "nodeId": "7434847054613334020"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847023210579971"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_狩猎都市·迅猛_1774793575636077.jpg"
+            },
+            {
+                "value": "斩神·炽羽尘光",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "万钧",
+                        "propertyExt": {
+                            "parentNodeId": "7434847023323826177",
+                            "nodeId": "7434847023378352135"
+                        },
+                        "propertyId": 7188066564440458249
+                    },
+                    {
+                        "childName": "稀有度",
+                        "value": "金",
+                        "propertyExt": {
+                            "parentNodeId": "7434847023323826177",
+                            "nodeId": "7434847054705608713"
+                        },
+                        "propertyId": 7249238307485648386
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7434847023323826177"
+                },
+                "image": "/jym-oss/resource/vmos/20260329/adc_16125280/upload_斩神·炽羽尘光_1774793575712456.jpg"
+            }
+        ],
+        "propertyId": 7260202566546912,
+        "useGameProperty": true
+    },
+    {
+        "propertyName": "变身器",
+        "gameProperties": [
+            {
+                "value": "葫芦兄弟·三娃葫芦",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "天海",
+                        "propertyExt": {
+                            "parentNodeId": "7206555583004414983",
+                            "nodeId": "7206555583067329545"
+                        },
+                        "propertyId": 7188066564440458249
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7206555583004414983"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/葫芦兄弟·三娃葫芦.png"
+            },
+            {
+                "value": "荆魂",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7336277649890085380",
+                            "nodeId": "7336277728780746760"
+                        },
+                        "propertyId": 7188066564440458249
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7336277649890085380"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/荆魂.png"
+            },
+            {
+                "value": "应龙号",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7216037234864422913",
+                            "nodeId": "7216037344411256326"
+                        },
+                        "propertyId": 7188066564440458249
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7216037234864422913"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/应龙号.png"
+            },
+            {
+                "value": "西行劫·神君印",
+                "childProperties": [
+                    {
+                        "childName": "英雄",
+                        "value": "岳山",
+                        "propertyExt": {
+                            "parentNodeId": "7204418720240108558",
+                            "nodeId": "7204418720294634503"
+                        },
+                        "propertyId": 7188066564440458249
+                    }
+                ],
+                "propertyExt": {
+                    "parentNodeId": "-1",
+                    "nodeId": "7204418720240108558"
+                },
+                "image": "https://static.jiaoyimao.com/jym-oss/resource/vmos/20260325/adc_0/西行劫·神君印.png"
+            }
+        ],
+        "propertyId": 7260202566739424,
+        "useGameProperty": true
+    },
+    {
+        "propertyName": "总收藏值",
+        "value": "178028",
+        "propertyId": 7260202567341536
+    }
+]
